@@ -16,7 +16,7 @@
   </p>
 </p>
 
-# instagram-follower-scraper
+# Fscraper
 This python script can automatically scrape other Instagram user's followers and save them in a text file.
 
 # How to use:
