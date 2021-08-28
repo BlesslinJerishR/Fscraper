@@ -3,7 +3,7 @@
   <img src="https://pbs.twimg.com/profile_images/1232518700/Endhiran-Movie-Wallpapers-6_1_.jpg" width="154"
 </kbd>
   <a href="https://fscraper.netlify.app"><h1 align="center">Fscraper</h1></a>
-  <p align="center"> <b>Automation Scraping usernames of other Instagram users using Fscraper and save it as a Text File for further usage .
+  <p align="center"> <b>Web Scraping usernames of other Instagram users using Fscraper and save it as a Text File for further usage .
   </p>
   <p align="center">
     </a>
